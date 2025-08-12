@@ -1,8 +1,7 @@
 ## Olá, me chamo Thiago Espindula! 👋
 
-- 👨‍💻 Desenvolvedor Full Stack na [Lince Tech](https://lincetec.com.br/).
+- 👨‍💻 Desenvolvedor Backend na [Senior Sistemas](https://www.senior.com.br/).
 - 🎓 Formado em Análise e Desenvolvimento de Sistema pelo Instituto Federal de Santa Catarina.
-- 📚 Atualmente estou estudando e me aprofundando em microsserviços com Java (Spring Boot).
   
 ### 🛠️ Ferramentas & Tecnologias
 <p align="left">
