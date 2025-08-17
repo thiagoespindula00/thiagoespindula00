@@ -5,7 +5,7 @@
   
 ### 🛠️ Ferramentas & Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,docker,rabbitmq,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,docker,rabbitmq,git,aws)](https://skillicons.dev)
 
 ### 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-espindula/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thiagoespindula00@gmail.com) 
