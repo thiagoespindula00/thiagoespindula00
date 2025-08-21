@@ -1,6 +1,6 @@
 ## Olá, me chamo Thiago Espindula! 👋
 
-- 👨‍💻 Desenvolvedor Backend na [Senior Sistemas](https://www.senior.com.br/).
+- 👨‍💻 Desenvolvedor de Software na [Senior Sistemas](https://www.senior.com.br/).
 - 🎓 Formado em Análise e Desenvolvimento de Sistema pelo Instituto Federal de Santa Catarina.
   
 ### 🛠️ Ferramentas & Tecnologias
